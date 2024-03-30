@@ -24,7 +24,7 @@ window.onload = () => {
   };
 
   document.getElementById("button").onclick = () => {
-    randomExcuse.innerHTML == generateExcuse();
+    randomExcuse.innerHTML = generateExcuse();
   };
 
   const button1 = document.getElementById("button1");

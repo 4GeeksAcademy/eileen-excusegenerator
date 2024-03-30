@@ -86,6 +86,9 @@ p {
   background: #14d377;
   color: #ffffff;
 }
+footer {
+  text-align: center;
+}
 #button:hover {
   background: #33a6cc;
 }
